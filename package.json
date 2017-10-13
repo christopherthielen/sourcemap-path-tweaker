@@ -1,6 +1,6 @@
 {
   "name": "tweak-sourcemap-paths",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Improve a sourcemap by tweaking the reported paths to source files. Avoid relative paths, etc.  Improves developer UX when debugging in developer tools.",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/christopherthielen/tweak-sourcemap-paths#readme",
   "dependencies": {
-    "glob": "^7.1.2"
-  },
-  "devDependencies": {
+    "glob": "^7.1.2",
     "yargs": "^9.0.1"
   }
 }
