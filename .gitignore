@@ -1,0 +1,23 @@
+build
+build_packages
+_bundles
+site
+stats.html
+
+# common
+*~
+**/.*
+node_modules
+bower_components
+lib
+lib-esm
+
+# webstorm files
+.idea
+idea-out
+*.iml
+*.ipr
+*.iws
+
+# generate doc to _doc; copy to proper gh-pages dir
+_doc
