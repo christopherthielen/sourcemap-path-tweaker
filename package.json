@@ -1,13 +1,13 @@
 {
   "name": "tweak-sourcemap-paths",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Improve a sourcemap by tweaking the reported paths to source files. Avoid relative paths, etc.  Improves developer UX when debugging in developer tools.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin" : {
-    "tweak_sourcemap_paths" : "./index.js"
+  "bin": {
+    "tweak_sourcemap_paths": "./index.js"
   },
   "repository": {
     "type": "git",
