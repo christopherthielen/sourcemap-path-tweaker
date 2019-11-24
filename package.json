@@ -1,6 +1,6 @@
 {
   "name": "tweak-sourcemap-paths",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Improve a sourcemap by tweaking the reported paths to source files. Avoid relative paths, etc.  Improves developer UX when debugging in developer tools.",
   "main": "index.js",
   "scripts": {
